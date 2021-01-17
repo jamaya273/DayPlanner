@@ -11,7 +11,7 @@ $(document).ready(function () {
       timetxt: "9am",
       timeHH: "09",
       dayEvent: "",
-      date: moment().format("YYYYMMDD")
+      datetime: moment().format("YYYYMMDD")
     },
 
     {
